@@ -1,5 +1,9 @@
 # Changelog
 
+## 1.4.1 (2021-08-08)
+
+- Fix for Foundry 0.8.8
+
 ## 1.3.1 (2020-05-22)
 
 - add Korean language support (thanks @KLO#1490)
